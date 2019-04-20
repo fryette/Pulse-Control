@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
     <metadata>
-        <id>Xamarin.iOS.PulsingControl</id>
+        <id>Xamarin.iOS.PulseControl</id>
         <version>1.0.0</version>
         <authors>Yauhen Sampir</authors>
         <owners>Yauhen Sampir</owners>
