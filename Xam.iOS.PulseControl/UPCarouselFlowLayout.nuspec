@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+    <metadata>
+        <id>Xamarin.iOS.PulsingControl</id>
+        <version>1.0.0</version>
+        <authors>Yauhen Sampir</authors>
+        <owners>Yauhen Sampir</owners>
+        <projectUrl>https://github.com/fryette/Pulse-Control</projectUrl>
+        <licenseUrl>https://github.com/fryette/Pulse-Control/blob/master/LICENSE</licenseUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <releaseNotes>Initial release</releaseNotes>
+        <description>Pulsing CALayer for Xamarin.iOS. It comes with pulsing animation effect</description>
+        <repository type="git" url="https://github.com/fryette/Pulse-Control" />
+        <copyright>Copyright ©2019 Yauhen Sampir</copyright>
+        <tags>pulsing xamarin ios xamarin.ios control sampir pulsate pulse fryette</tags>
+    </metadata>
+</package>
